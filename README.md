@@ -5,5 +5,5 @@
 <b><h3 align="center">Languages-Tools</h3></b>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,mongodb,mysql,visualstudio,git,github,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,mongodb,mysql,visualstudio,git,github&perline=5" />
 </div>
